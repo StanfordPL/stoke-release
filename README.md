@@ -49,7 +49,7 @@ To check what level of hardware support you have, run:
     
 and check if the following cpu flags are present:
 
-    $ flags: ... avx avx2 bmi bmi2 popcnt ...
+    flags: ... avx avx2 bmi bmi2 popcnt ...
 
 If you don't have 'avx' or 'avx2', you will need to compile for nehalem.  If
 you have 'avx', but not avx2, you will compile for 'sandybridge'.  If you have
