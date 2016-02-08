@@ -1,1 +1,1 @@
-STOKE has moved and the latest version can now be found at (github.com/StanfordPL/stoke)[https://github.com/StanfordPL/stoke].  For posterity, the latest version from this repository is still available in the `old-master` branch.
+STOKE has moved and the latest version can now be found at [github.com/StanfordPL/stoke](https://github.com/StanfordPL/stoke).  For posterity, the latest version from this repository is still available in the `old-master` branch.
